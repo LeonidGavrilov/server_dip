@@ -1,4 +1,4 @@
-const password: string = "V8d-VCL-HgG-Vua";
+const password: string = "V8d-Vua";
 const dbName: string = "descriptionOfTheFilmsDB";
 const mongoUrl: string =
     "mongodb+srv://LeonidG:" + password + "@cluster0.r4e4w.mongodb.net/" + dbName;
